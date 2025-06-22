@@ -1,0 +1,17 @@
+{
+  "name": "backend_ka_project",
+  "version": "1.0.0",
+  "description": "backend with kinom",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "kinom"
+  ],
+  "author": "kinom",
+  "license": "ISC"
+}
